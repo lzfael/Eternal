@@ -13,10 +13,10 @@ export function App() {
             <div className='flex justify-center items-center h-full ml-80'>
               <img src={ LogoBackground } alt="Logo" className=" h-5/6 opacity-40" />
             </div>
-            
+            <Footer />
           </div>
         </div>
-        <Footer />
+        
       </div>  
 
   )
