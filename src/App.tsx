@@ -5,7 +5,6 @@ import LogoBackground from './image/LogoBackground.png'
 
 export function App() {
   return (
-    <>
       <div className="h-screen w-screen bg-black text-white">
        <NavBar />
         <div className='flex justify-center items-center h-5/6'>
@@ -18,10 +17,8 @@ export function App() {
           </div>
         </div>
         <Footer />
-      </div>
+      </div>  
 
-      
-    </>
   )
 }
 
