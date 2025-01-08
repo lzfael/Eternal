@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: Nickova;
+    src: url(./fonts/Nickova.ttf) format("opentype");
+    
+}
